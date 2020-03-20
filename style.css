@@ -1,7 +1,7 @@
 body {
     width: 100%;
     margin: 30px;
-    background-color: antiquewhite;
+    background-color: grey;
  }
   
  #profile-container{
@@ -19,6 +19,7 @@ body {
  #profile-name{
     text-align: center;
  }
+<<<<<<< HEAD
  #footer {
     width: 100%;
     height: 50px;
@@ -27,3 +28,14 @@ body {
     text-align: center;
     color: white;
  }
+=======
+ #header {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: goldenrod;
+    text-align: center;
+    color: white;
+ }
+ 
+>>>>>>> development-1.0
